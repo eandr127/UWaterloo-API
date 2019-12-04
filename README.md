@@ -1,5 +1,7 @@
 UWaterloo API - Java Library
 -----
+## Publish locally
+Run `gradlew build publishToMavenLocal` to publish this dependency locally.
 
 ## About
 This is a java library that accesses the University of Waterloo Open Data API. 
